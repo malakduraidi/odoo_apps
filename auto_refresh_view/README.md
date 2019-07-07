@@ -1,1 +1,1 @@
-web_auto_refresh
+auto_refresh_view

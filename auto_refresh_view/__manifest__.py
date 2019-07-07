@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 {
-    'name': "Web auto refresh",
+    'name': "Auto Refresh View",
     'version': "1.0",
     'author': "Malak Duraidi",
     'website': "https://www.facebook.com/malak.duraidi",
